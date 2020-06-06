@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="HibernateTutorials" />
+        <module name="2.1a_collection_mapping_list" />
         <module name="1_introduction" />
       </profile>
     </annotationProcessing>
