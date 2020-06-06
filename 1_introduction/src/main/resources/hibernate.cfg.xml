@@ -14,7 +14,7 @@
 
         <!-- Assume test is the database name -->
         <property name="hibernate.connection.url">
-            jdbc:mysql://localhost:3306/introduction
+            jdbc:mysql://localhost:3306/introduction?autoReconnect=true&amp;useSSL=false&amp;serverTimezone=UTC
         </property>
         <property name="hibernate.connection.username">
             root
