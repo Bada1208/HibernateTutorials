@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="2.1a_collection_mapping_list" />
         <module name="1_introduction" />
+        <module name="2.1b_collection_mapping_collection" />
       </profile>
     </annotationProcessing>
   </component>
