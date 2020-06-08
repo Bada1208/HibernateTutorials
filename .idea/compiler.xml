@@ -6,9 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="2.1a_collection_mapping_list" />
+        <module name="2.1c_collection_mapping_set" />
         <module name="1_introduction" />
+        <module name="2.1e_collection_mapping_map" />
+        <module name="2.1a_collection_mapping_list" />
+        <module name="2.1d_collection_mapping_sortedset" />
         <module name="2.1b_collection_mapping_collection" />
+        <module name="2.1f_collection_mapping_sortedmap" />
       </profile>
     </annotationProcessing>
   </component>
